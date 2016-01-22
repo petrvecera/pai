@@ -1,0 +1,4 @@
+1# TF for each document
+2# IDF for all words in each document
+3# TF*IDF
+4# cosine similarity of the vectors

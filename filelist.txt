@@ -1,0 +1,4 @@
+S:/temp/lotr1.txt
+S:/temp/lotr2.txt
+S:/temp/twk.txt
+S:/temp/Dune.txt
