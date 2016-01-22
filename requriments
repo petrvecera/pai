@@ -1,4 +1,0 @@
-pip install mpi4py
-http://mpi4py.readthedocs.org/en/stable/install.html#using-pip-or-easy-install
-
-open-mpi (mpiexec)
